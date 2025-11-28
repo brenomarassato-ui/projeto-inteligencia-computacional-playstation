@@ -113,7 +113,6 @@ Métricas calculadas:
 - Validação cruzada (k=5)  
 
 ### Feature Importance
-![Feature Importance](docs/feature_importance.png)
 
 O modelo com melhor desempenho foi **RandomForestRegressor**.
 
