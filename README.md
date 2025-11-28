@@ -5,6 +5,8 @@
 Este repositório contém o desenvolvimento **completo** da atividade avaliativa da disciplina **Inteligência Computacional – FATEC Jundiaí**.  
 O objetivo é construir um modelo de regressão para prever o total de vendas globais de jogos PlayStation com base em metadados do dataset Kaggle.
 
+Alunos: Breno Marassato, Ana Luiza Oliveira, Giovani Manoel, Caroline Pardi, Matheus Mondo
+
 ---
 
 # 1. Introdução
